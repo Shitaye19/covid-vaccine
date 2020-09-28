@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Our Website"
 author: "Christopher Tarango"
 date: "9/28/2020"
 output: html_document
